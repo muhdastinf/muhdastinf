@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dastin</h1>
 <h3 align="center">A passionate fullstack developer from Indonesia</h3>
-<img align="right" alt="Germany" width="400" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Germany_lifts_the_2014_FIFA_World_Cup.jpg/2560px-Germany_lifts_the_2014_FIFA_World_Cup.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhdastinf&label=Profile%20views&color=0e75b6&style=flat" alt="muhdastinf" /> </p>
 
